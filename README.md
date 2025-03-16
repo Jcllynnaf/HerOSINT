@@ -148,10 +148,9 @@ Contribution is very accepted!If you find a problem or have suggestions for impr
 ## 📞 Contact & Support  
 
 🔗 **GitHub:** [jcllynnaf](https://github.com/jcllynnaf)  
-📸 **Instagram:** [@jcllynnaf](https://instagram.com/jcllynnaf)  
-🍵 **Dukung Saya:** [Linktree](https://linktr.ee/jcllynnaf)  
+📸 **Instagram:** [@jcllynnaf](https://instagram.com/jcllynnaf)    
 
-**Made by:** 🛠 **HEROINFATHER-FSOCIETY / JCLLYNNAF**  
+**Developed by :** 🛠 **heoinfather@fsociety / jcllynnaf**  
 
 ---
 
