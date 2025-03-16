@@ -1,4 +1,4 @@
-![2025-03-06_11-33](banner-gt)
+![2025-03-17_2-47](https://github.com/Jcllynnaf/HerOSINT/blob/main/HerOSINT.png)
 # HerOSINT - OSINT IP Scanner  
 
 HerOSINT is a tool OSINT (Open Source Intelligence) based on python designed for investigation, IP analysis, reconnaissance, and collection of target information. This tool provides various techniques to help you gather valuable information about certain targets.  
