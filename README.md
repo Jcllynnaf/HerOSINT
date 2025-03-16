@@ -150,7 +150,7 @@ Contribution is very accepted!If you find a problem or have suggestions for impr
 🔗 **GitHub:** [jcllynnaf](https://github.com/jcllynnaf)  
 📸 **Instagram:** [@jcllynnaf](https://instagram.com/jcllynnaf)    
 
-**Developed by :** 🛠 **heoinfather@fsociety / jcllynnaf**  
+**Developed by :** 🛠 **heoinfather / jcllynnaf**  
 
 ---
 
