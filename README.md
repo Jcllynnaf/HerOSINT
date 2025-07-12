@@ -147,10 +147,10 @@ Contribution is very accepted!If you find a problem or have suggestions for impr
 
 ## 📞 Contact & Support  
 
-🔗 **GitHub:** [jcllynnaf](https://github.com/jcllynnaf)  
+🔗 **Instagram:** [jcllynnaf](https://instagram.com/jcllynncode)  
 📸 **Instagram:** [@jcllynnaf](https://instagram.com/jcllynnaf)    
 
-**Developed by :** 🛠 **heoinfather / jcllynnaf**  
+**Developed by :** 🛠 **Jcllynncode / jcllynnaf**  
 
 ---
 
